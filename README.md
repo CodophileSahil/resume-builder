@@ -1,2 +1,1 @@
-# resume-builder
-Hi! I am resume-builder. With the help of mine, You can make a customized resume.
+With the help of this resume-builder. You can easily make your customized resume.
